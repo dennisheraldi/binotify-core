@@ -1,0 +1,12 @@
+[submodule "binotify-app"]
+	path = binotify-app
+	url = https://github.com/dennisheraldi/binotify-app
+[submodule "binotify-rest"]
+	path = binotify-rest
+	url = https://github.com/dennisheraldi/binotify-rest
+[submodule "binotify-soap"]
+	path = binotify-soap
+	url = https://github.com/dennisheraldi/binotify-soap
+[submodule "binotify-premium"]
+	path = binotify-premium
+	url = https://github.com/dennisheraldi/binotify-premium
